@@ -3,8 +3,6 @@
 
 # Movie-Library-App
 
-https://api-cinema-10d15.firebaseapp.com
-
 Full-stack App for searching movies and seeing its rating like in [kinopoisk](kinopoisk.ru)
 Created it looking at a template of one bloger 
 
