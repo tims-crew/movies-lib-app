@@ -1,16 +1,17 @@
 
 ![Alt text](MovieBrowser_1.png?raw=true "MovieBrowser")
 
-# Movie-Browser-App
+# Movie-Library-App
 
 https://api-cinema-10d15.firebaseapp.com
 
+Full-stack App for searching movies and seeing its rating like in [kinopoisk](kinopoisk.ru)
+Created it looking at a template of one bloger 
 
-It's a nice app for movie browsing developed by me in order to practice the use of redux-saga and Firebase (Realtime Database). 
-Used: 
+Used:
 * create-react-app;
-* bootstrap + reactstrap;
 * redux-saga;
+* bootstrap + reactstrap;
 
 For tests: react-testing-library
 
@@ -18,8 +19,3 @@ Application allowes:
 * to filter and search for movie database (using TMDB API);
 * to view movie details;
 * create User Account to build own watch lists.
-
-![Alt text](MovieBrowser_2.png?raw=true "MovieBrowser")
-
-
-P.S. If you want to clone and launch this project, pay attention that src/config.js has to contain your own created API keys.
